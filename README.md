@@ -1,4 +1,4 @@
-# 👋 Hola, soy Dienel León Otulo
+# 👋 Hola, soy Dienel Leandro Leon
 
 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**  
 💻 Desarrollador de Software en formación  
